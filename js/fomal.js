@@ -3144,7 +3144,7 @@ let picsum = "url(https://picsum.photos/1920/1080.webp)";
 // let tuapi = "url(https://tuapi.eees.cc/api.php?category=dongman)";
 
 
-// 更换背景(自己的代码)
+// 更换(自己的代码)
 if (localStorage.getItem("blogbg") != undefined) {
   setBg(localStorage.getItem("blogbg"));
 } else {
